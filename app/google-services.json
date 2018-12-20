@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "153545192692",
+    "firebase_url": "https://vallidokylekrizlanlab8.firebaseio.com",
+    "project_id": "vallidokylekrizlanlab8",
+    "storage_bucket": "vallidokylekrizlanlab8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153545192692:android:f82469c8be6632ac",
+        "android_client_info": {
+          "package_name": "com.vallido.kylekrizlan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153545192692-t0j7nqgge5dkmusvss1g4f8d7o016dob.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vallido.kylekrizlan",
+            "certificate_hash": "adf80a3b38e197cb42079e43a45819b11617c98e"
+          }
+        },
+        {
+          "client_id": "153545192692-ad0igila0f2e4b32em005dd13juvpfjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhQYNJ470kLTJKypKixmtqAmoQfdLVrDE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153545192692-ad0igila0f2e4b32em005dd13juvpfjo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
